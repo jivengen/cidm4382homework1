@@ -1,18 +1,17 @@
+# Pizza Locator
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+This app was made to locate and rate locate pizza places
+
+This site does this by letting the readers review the pizza place and tell everyone else how 
+good or bad the food or service is.
 
 
-Hi there! Welcome to Cloud9 IDE!
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+This code was originally from this git hub, then modified for pizza purposes.
 
-Happy coding!
-The Cloud9 IDE team
+`$ git clone -b chapter-04 https://github.com/simonholmes/getting-MEAN.git`
+
+
+This was used to make sure all the dependancies were present
+
+`npm install`
