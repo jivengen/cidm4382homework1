@@ -1,0 +1,10 @@
+# Dependency directory
+node_modules
+
+.env
+.gitignore
+.c9/
+hello.html
+getting-Mean_old
+getting-MEAN-03
+getting-MEAN3.5
