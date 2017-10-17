@@ -1,51 +1,8 @@
-{
-        "Climb Data" : [
-            {
-                "weight" : "18,000",
-                "5" : "116",
-                "10" : "110",
-                "15" : "107",
-                "Climb" : "130"
-            },
-            {
-                "weight" : "20,000",
-                "5" : "120",
-                "10" : "112",
-                "15" : "109",
-                "Climb" : "131"
-            },
-                        {
-                "weight" : "22,000",
-                "5" : "126",
-                "10" : "118",
-                "15" : "115",
-                "Climb" : "137"
-            },
-                        {
-                "weight" : "24,000",
-                "5" : "132",
-                "10" : "123",
-                "15" : "120",
-                "Climb" : "143"
-            },
-                        {
-                "weight" : "26,000",
-                "5" : "137",
-                "10" : "128",
-                "15" : "125",
-                "Climb" : "148"
-            },
-                        {
-                "weight" : "28,000",
-                "5" : "142",
-                "10" : "134",
-                "15" : "130",
-                "Climb" : "154"
-            },
-                        {
-                "weight" : "29,000",
-                "5" : "146",
-                "10" : "137",
-                "15" : "133",
-                "Climb" : "158"
-            }]}
+{"weight" : 18000,"vfriFlap5" : 116, "vfriFlap10" : 110,"vfriFlap15" : 107,"vClmb" : 130}
+{"weight" : 20000,"vfriFlap5" : 120,"vfriFlap10" : 112,"vfriFlap15" : 109,"vClmb" : 131}
+{"weight" : 22000,"vfriFlap5" : 126,"vfriFlap10" : 118,"vfriFlap15" : 115,"vClmb" : 137}
+{"weight" : 24000,"vfriFlap5" : 132,"vfriFlap10" : 123, "vfriFlap15" : 120, "vClmb" : 143}
+{"weight" : 26000,"vfriFlap5" : 137,"vfriFlap10" : 128,"vfriFlap15" : 125,"vClmb" : 148}
+{"weight" : 28000,"vfriFlap5" : 142, "vfriFlap10" : 134,"vfriFlap15" : 130,"vClmb" : 154}
+{"weight" : 29000,"vfriFlap5" : 146,"vfriFlap10" : 137,"vfriFlap15" : 133,"vClmb" : 158}
+
